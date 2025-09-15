@@ -14,3 +14,9 @@ Currently, two official plugins are available:
 docker init
 
 ```
+
+```bash
+
+docker compose up
+
+```
